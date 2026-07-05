@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29672651/README.md)
-![AI-Powered CPD Report Builder](Assets/hero.svg)
 
 # AI-Powered CPD Report Builder
 
